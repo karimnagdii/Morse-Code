@@ -28,7 +28,7 @@ This Python program allows users to encrypt English phrases into Morse code and 
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/karimnagdii/python_morse_code.git
+   git clone https://github.com/karimnagdii/Morse-Code.git
    cd morse-code-converter
    python morse_code.py
 ## Examples
